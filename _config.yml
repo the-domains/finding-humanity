@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8212479
+  brandStrength: 1
+  lightness: 0.3220911
+  brandColors:
+    - '#232323'
+    - '#F4F5F1'
+    - '#9A886E'
+    - '#CFE002'
+    - '#287791'
+  rhythmicContrast: 0.8524452
+typography_spectrum: 0.613828
+name: Finding humanity
