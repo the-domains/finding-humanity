@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Finding humanity]]></title>
+        <description><![CDATA[Finding humanity]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jan 2016 22:07:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Idea]]></title>
+            <description><![CDATA[<article><h1>New Idea</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ca082fb-b3c1-4eff-827b-8ac8760c71bf.png"></article>]]></description>
+            <link>undefinednew-idea/index.html</link>
+            <guid isPermaLink="false">d8d59707-14d7-4b45-8265-e3ae549762a1</guid>
+            <pubDate>Tue, 05 Jan 2016 22:07:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
